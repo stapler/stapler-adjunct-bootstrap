@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.kohsuke.stapler</groupId>
   <artifactId>stapler-adjunct-bootstrap</artifactId>
-  <version>2.2.1-1-SNAPSHOT</version>
+  <version>2.2.1-1</version>
   <name>Bootstrap</name>
 
   <dependencies>
