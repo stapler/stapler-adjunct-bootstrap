@@ -1,0 +1,7 @@
+<!--
+Use it like <st:adjunct include="org.kohsuke.stapler.bootstrap-responsive"/>
+-->
+<j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler">
+  <st:adjunct includes="org.kohsuke.stapler.bootstrap"/>
+  <link href="${it.packageUrl}/bootstrap/css/bootstrap-responsive${it.manager.debug?'.min':''}.css" rel="stylesheet" media="screen" />
+</j:jelly>
