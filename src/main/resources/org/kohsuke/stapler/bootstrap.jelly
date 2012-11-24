@@ -1,7 +1,8 @@
 <!--
 Use it like <st:adjunct include="org.kohsuke.stapler.bootstrap"/>
 -->
-<j:jelly xmlns:j="jelly:core">
+<j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler">
+  <st:adjunct includes="org.kohsuke.stapler.jquery"/>
   <script src="${it.packageUrl}/bootstrap/js/bootstrap${it.manager.debug?'.min':''}.js" type="text/javascript" />
   <link href="${it.packageUrl}/bootstrap/css/bootstrap${it.manager.debug?'.min':''}.css" rel="stylesheet" media="screen" />
 </j:jelly>
