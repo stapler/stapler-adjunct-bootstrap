@@ -1,5 +1,5 @@
 <!--
-Use it like <st:adjunct include="org.kohsuke.stapler.bootstrap"/>
+Use it like <st:adjunct include="org.kohsuke.stapler.bootstrap3"/>
 -->
 <j:jelly xmlns:j="jelly:core" xmlns:st="jelly:stapler">
   <st:adjunct includes="org.kohsuke.stapler.jquery"/>
