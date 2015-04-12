@@ -37,9 +37,9 @@
   </build>
 
   <scm>
-    <connection>scm:git:git://github.com/stapler/${project.artifactId}.git</connection>
-    <developerConnection>scm:git:ssh://git@github.com/stapler/${project.artifactId}.git</developerConnection>
-    <url>https://github.com/stapler/${project.artifactId}</url>
+    <connection>scm:git:git://github.com/stapler/stapler-adjunct-bootstrap.git</connection>
+    <developerConnection>scm:git:ssh://git@github.com/stapler/stapler-adjunct-bootstrap.git</developerConnection>
+    <url>https://github.com/stapler/stapler-adjunct-bootstrap</url>
   </scm>
 
   <distributionManagement>
