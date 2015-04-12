@@ -10,7 +10,7 @@
     <dependency>
       <groupId>org.kohsuke.stapler</groupId>
       <artifactId>stapler</artifactId>
-      <version>[1.199,)</version>
+      <version>1.200</version>
     </dependency>
     <dependency>
       <groupId>org.kohsuke.stapler</groupId>
